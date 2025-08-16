@@ -1,0 +1,1 @@
+This repository allows you to consolidate .xlsx files into a single file, combining multiple spreadsheet folders into one, facilitating data analysis. It uses only Python and libraries like Pandas and OS. For better understanding, I've commented on each line of code.
